@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">alcoholorgasoline</string>
+    <string name="app_title">alcohol or gasoline</string>
+    <string name="hint_gasoline_value">Gasoline Value ex.: 4.29</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="result_text">Alcohol must cost at most: </string>
+</resources>
